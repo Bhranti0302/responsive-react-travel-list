@@ -17,7 +17,7 @@ function Footer({ items }) {
       <em>
         {percentage === 100
           ? "You got everything! Ready to go ✈️"
-          : `💼 You have {numItems} items on your list, and you already packed ${numPacked} (${percentage}%)`}
+          : `💼 You have ${numItems} items on your list, and you already packed ${numPacked} (${percentage}%)`}
       </em>
     </div>
   );

@@ -31,7 +31,7 @@ function App() {
   } // we are creating one new array where packed item change in opposite(false=true or true=false)
 
   function handleClearList() {
-    const confired = window.confirm(
+    const confirmed = window.confirm(
       "Are You sure you want to do delete all Items?"
     );
 

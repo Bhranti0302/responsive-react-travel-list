@@ -2,7 +2,6 @@
   "name": "travel-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Bhranti0302.github.io/responsive-react-travel-list",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
