@@ -1,5 +1,3 @@
------
-
 # ✈️ Packing List React App
 
 📦 A simple and responsive React application to help you keep track of items you need to pack for your travels. Easily add, manage, and organize your packing essentials to ensure you don't forget a thing\!
