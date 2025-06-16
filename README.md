@@ -8,7 +8,7 @@ Toggle Packed Status: Mark items as packed or unpacked to keep track of your pro
 Clear List: Reset your entire packing list with a single click.
 Responsive Design: Enjoy a seamless experience across various devices, from mobile phones to desktops.
 🚀 Live Demo
-Check out the live application here: https://travel-packing-list-react.netlify.app/
+Check out the live application here: [https://responsive-react-travel-list-zon4.vercel.app/]
 
 💻 Technologies Used
 React.js: A JavaScript library for building user interfaces.
