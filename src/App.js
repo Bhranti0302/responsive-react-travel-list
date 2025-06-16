@@ -35,7 +35,7 @@ function App() {
       "Are You sure you want to do delete all Items?"
     );
 
-    if (confired) setItems([]);
+    if (confirmed) setItems([]);
   }
 
   return (
